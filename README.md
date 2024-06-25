@@ -2,7 +2,7 @@
 
 A login system with NextAuth.js using GitHub for authentication in a Next.js application.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [https://authentication-next-auth-beryl.vercel.app/](https://authentication-next-auth-beryl.vercel.app/) with your browser to see the result.
 
 #### HTTP and Internet
 - Session
